@@ -1,13 +1,13 @@
-&lt;h1 align="center"&gt;Frank Amponsah | Data Operations Engineer&lt;/h1&gt;
-&lt;h3 align="center"&gt;Modernizing Education Administration: 7 Years VBA → Python&lt;/h3&gt;
+<h1 align="center">Frank Amponsah | Data Operations Engineer</h1>
+<h3 align="center">Modernizing Education Administration: 7 Years VBA → Python</h3>
 
-&lt;p align="center"&gt;
-  &lt;a href="https://linkedin.com/in/frank-amponsah-46b57b217"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;img src="https://img.shields.io/badge/South%20Africa-POPIA%20Compliant-green?style=for-the-badge" /&gt;
-  &lt;img src="https://img.shields.io/badge/Focus-EdTech%20Data%20Engineering-blue?style=for-the-badge" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://linkedin.com/in/frank-amponsah-46b57b217">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/South%20Africa-POPIA%20Compliant-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-EdTech%20Data%20Engineering-blue?style=for-the-badge" />
+</p>
 
 ---
 
